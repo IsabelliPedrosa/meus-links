@@ -37,6 +37,9 @@ div h1 {
     margin-bottom: 4px;
 }
 
-div p {
-    
+div strong {
+    color: #C4F82A;
+    font-size: 14px;
+    line-height: 21px;
+
 }
